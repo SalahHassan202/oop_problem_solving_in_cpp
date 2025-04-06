@@ -1,0 +1,10 @@
+/*
+
+question....?
+
+write an opp complete program to represent a car , the class constructor 
+will set the values to all its data members (المتغيرات)
+, then create a member function outside the class to display the car price 
+, then create a friend function to increase the car price by 1000 
+
+*/
