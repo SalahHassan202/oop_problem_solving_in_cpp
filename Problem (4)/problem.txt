@@ -1,0 +1,10 @@
+/*
+
+question....?
+
+write an opp complete program to represent 3 workers , 
+the class constructor will set values of salery and name for each worker ,
+then calculate the average of salaries for all workers using friend function 
+
+
+*/
