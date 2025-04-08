@@ -1,0 +1,11 @@
+/*
+
+question.....?
+
+Write a C++ program to represent the student class , 
+data members are name , age , grade , id 
+the class constructor set the values to all it's data members 
+then create another class to represent the university 
+use member function of the second class to print the values of the first class 
+
+*/
