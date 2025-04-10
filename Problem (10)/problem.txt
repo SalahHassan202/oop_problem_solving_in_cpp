@@ -1,0 +1,14 @@
+/*
+
+question....?
+
+Write a C++ program to represent
+class sum
+int x 
+ob1 , ob2 
+ob1 + ob2 
+with three method 
+
+
+*/
+
