@@ -1,0 +1,15 @@
+/*
+
+question....?
+
+Write a C++ program to represent
+class Form
+string name
+name of ob1 = "salah"
+name of ob2 = "hassan" 
+ob1 + ob2 
+salah hassan
+with three method 
+
+
+*/
