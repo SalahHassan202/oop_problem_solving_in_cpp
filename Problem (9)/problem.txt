@@ -1,9 +1,0 @@
-/*
-
-question.....?
-
-Write a C++ program to represent 20 students , 
-the class constructo will set values to all data members for each student 
-then calculate the avarage for all student using friend function 
-
-*/

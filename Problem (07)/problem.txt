@@ -1,0 +1,11 @@
+/*
+
+question.....?
+
+Write a C++ program  to represent the rectangle class , 
+define two data members with constructor overloading add
+a member function outside the class for printing 
+define 2 rectangle objects , 
+use friend function to find the biggest rectangle area ;
+
+*/
