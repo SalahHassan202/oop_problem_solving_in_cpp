@@ -1,0 +1,13 @@
+/*
+
+question....?
+
+Write a C++ program to represent
+class cal
+with two object
+x , y
+x from ob1 - y from ob2
+with three method 
+
+
+*/
