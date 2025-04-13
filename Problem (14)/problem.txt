@@ -1,0 +1,10 @@
+/*
+
+question...?
+
+Create an OPP program that accept name , number of employee and print them 
+look!!!
+make sure that name size > 5 ;
+make sure that number size > 0 ;
+
+*/
