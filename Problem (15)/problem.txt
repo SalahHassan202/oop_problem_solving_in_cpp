@@ -1,0 +1,9 @@
+/*
+
+question...?
+
+Create an OPP program that accept 3 number and return sum of them
+look!!!
+make sure that 3 number must be even number
+
+*/
