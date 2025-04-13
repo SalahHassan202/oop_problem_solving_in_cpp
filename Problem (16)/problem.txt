@@ -1,0 +1,13 @@
+/*
+
+question...?
+
+Create an OPP program that accept Player(id , name , number) ; 
+and Student(id , name , age) 
+and print the data
+look!!!
+make sure that id must be > 0 ;
+number length must be <= 2 ;
+age must be > 7 and < 30 ;
+
+*/
