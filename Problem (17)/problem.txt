@@ -1,0 +1,9 @@
+/*
+
+question...?
+
+Create an OPP program that accept Player(id , name , number , phone) ; 
+Student(id , name , age , phone) ; 
+Person(id , name ) ; 
+
+*/
