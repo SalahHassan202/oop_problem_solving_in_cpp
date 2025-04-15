@@ -1,0 +1,9 @@
+/*
+
+question...?
+
+Create an OPP program that accept (id , name ) of private school ; 
+and accept (id , name ) of public school
+
+
+*/
