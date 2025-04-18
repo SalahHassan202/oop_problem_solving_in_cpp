@@ -1,0 +1,10 @@
+/*
+
+question...?
+
+Create an OPP program that accept (id , text , image) of Facebook and Linked in;
+look!!!
+on Facebook please print that you are in facebook application
+on linked in please print that you are in linked in application
+
+*/
