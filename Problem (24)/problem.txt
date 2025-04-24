@@ -1,0 +1,22 @@
+/*
+
+question...?
+
+Write a C++ program to create a class called Triangle that has private member variables for the lengths of its three sides.
+Implement member functions to determine if the triangle is equilateral, isosceles, or scalene.
+
+*/
+
+
+//! note that
+// In a scalene triangle, all the sides of a triangle are of different length.
+// In an isosceles triangle, two sides of a triangle are of the same measure.
+// In an equilateral triangle, all the sides of a triangle are of equal length.
+
+/*
+
+في المثلث المختلف الأضلاع، تكون جميع أضلاع المثلث ذات أطوال مختلفة.
+. في المثلث متساوي الساقين، ضلعان من المثلث لهما نفس القياس.
+.في المثلث متساوي الأضلاع، جميع أضلاع المثلث متساوية في الطول.
+
+*/
