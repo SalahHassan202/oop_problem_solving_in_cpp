@@ -1,0 +1,13 @@
+/*
+
+question...?
+
+please create an app facebook that acccept data only by constructor 
+1 --> id , text 
+2 --> id , text , image 
+look !!!
+no setter (there are getter)
+no default constructor 
+
+
+*/
