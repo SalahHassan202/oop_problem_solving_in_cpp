@@ -1,0 +1,9 @@
+/*
+
+question...?
+
+write the program to print area and periemeter of a triangle slides are 3 , 4  and 5
+uints by creating a class named Triangle without any parameter on constructor
+
+
+*/
