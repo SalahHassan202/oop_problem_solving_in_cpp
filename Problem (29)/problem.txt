@@ -1,0 +1,10 @@
+/*
+
+question...?
+
+write the program to print the average of three numbers entered by user 
+creating a class named "Average" 
+Having a method to calculate the average ;
+
+
+*/
