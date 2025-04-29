@@ -1,0 +1,11 @@
+/*
+
+question...?
+
+write a program to Employee 
+method to print final salary 
+addSalary ==> if salary < 500 ;
+addWork ===> if hours > 6 ;
+
+
+*/
